@@ -1,0 +1,55 @@
+.html
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+.body 
+  {
+    font-family: Verdana, sans-serif;
+    background: #dfd80e;
+  }
+.banner
+{
+    background: #b30baa;
+    font-size: x-large;
+
+
+}
+.stopka 
+{
+    background: #14334d;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 1.2rem;
+    text-align: center;
+    clear: both;
+}
+.lewy 
+{
+    background: #4c381f;
+    width: 40%;
+    height: 500px;
+    float: left;
+    font-size: large;
+
+  }
+.lewy ul 
+{
+    margin: 40px;
+  }
+.prawy 
+{
+    background: #303030;
+    width: 60%;
+    height: 500px;
+    float: left;
+  }
+.prawy img 
+{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #5656b8;
+    width: 550px;
+    height: auto;
+  }
